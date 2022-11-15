@@ -19,5 +19,6 @@ open any browser and access "http://localhost:8085"
 
 
 <img width="889" alt="image" src="https://user-images.githubusercontent.com/84487686/201993230-3ded0816-3e6a-4534-a3f5-8af93a22e7fc.png">
-![img_two](https://user-images.githubusercontent.com/72957443/201969276-e3e43f99-c30b-43ec-a019-5b6c370297a3.jpeg)
+<img width="632" alt="image" src="https://user-images.githubusercontent.com/84487686/201994666-7a2870ca-e966-4d3f-be5a-cdbb062b518a.png">
+
 <img width="458" alt="image" src="https://user-images.githubusercontent.com/84487686/201993627-263a597c-8492-45f7-af76-72210328174e.png">
